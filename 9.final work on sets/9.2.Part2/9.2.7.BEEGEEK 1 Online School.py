@@ -2,23 +2,13 @@
 # When admitting new employees to the BEEGEEK online school, its director tests not only the candidate’s professional qualities, but also his memory.
 # The candidate is shown briefly several different numbers and then the candidate must name them. 
 # Moreover, it does not matter in what order he remembers them, and whether he repeats them or not, the main thing is that he must name all the numbers without adding extra ones.
-
 # Write a program to determine whether a candidate passes a memory test.
-# Input format
-# The program receives two lines of numbers as input: in the first line those shown to the candidate, and in the second line the candidate’s answers.
-# Output format
-# The program should output YES if the candidate has passed the test and can be hired and NO otherwise.
 
 # Онлайн-школа BEEGEEK 1
 # При приёме новых сотрудников в онлайн-школу BEEGEEK её руководитель тестирует не только профессиональные качества кандидата, но и его память.
 # Кандидату показывают ненадолго несколько различных чисел, а затем кандидат должен их назвать. 
 # Причем неважно, в каком порядке он их вспоминает, и повторяется он или нет, главное он должен назвать все числа, не добавляя лишних.
-
 # Напишите программу, определяющую, успешно ли прошел кандидат тестирование памяти.
-# Формат входных данных
-# На вход программе подаются две строки с числами: в первой строке показанные кандидату, а во второй ответы кандидата.
-# Формат выходных данных
-# Программа должна вывести YES, если кандидат прошел испытание и его можно брать на работу и NO в противном случае.
 
 set1 = {int(i) for i in input().split()}  #Онлайн-школа BEEGEEK 1
 set2 = {int(i) for i in input().split()}
