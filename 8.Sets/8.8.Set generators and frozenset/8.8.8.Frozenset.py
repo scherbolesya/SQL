@@ -50,3 +50,14 @@ frozenset({'c', 't'})
 frozenset({'n', 'd'})
 frozenset({'w', 't'})
 frozenset({'s', 'c', 'k', 'd'})
+
+------------------------------
+Приведенный ниже код:
+
+myset1 = set('qwerty')
+myset2 = frozenset('qwerty')
+
+print(myset1 == myset2)
+выведет:
+
+True
