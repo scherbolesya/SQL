@@ -4,7 +4,7 @@
 # Morse code uses dashes and dots to represent numbers and letters.
 # Write a program to encode a text message using Morse code.
 
-Символ   Код   Символ	Код  Символ Код	 Символ	 Код
+Символ   Код  Символ Код  Символ    Код	 Символ	 Код
 A        .-    J    .---        S    ...    1    .----
 B	    -...	K	 -.-	  T	     -	    2	   ..---
 C     	-.-.	L	 .-..	  U	    ..-	    3	   ...--
