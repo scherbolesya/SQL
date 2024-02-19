@@ -5,8 +5,8 @@
 # Write a program to encode a text message using Morse code.
 
 Символ   Код  Символ Код  Символ    Код	 Символ	 Код
-A        .-    J    .---      S    ...    1     .----
-B	    -...	K	 -.-	  T	     -	    2	   ..---
+A        .-    J    .---      S    ...    1    .----
+B        -...  K	 -.-	  T	    -	  2	   ..---
 C     	-.-.	L	 .-..	  U	    ..-	    3	   ...--
 D      	-..	    M	 --	      V	    ...-	4	   ....-
 E     	.	    N	 -.	      W	    .--	    5	   .....
