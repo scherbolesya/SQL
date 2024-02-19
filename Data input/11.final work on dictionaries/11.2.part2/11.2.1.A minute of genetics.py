@@ -1,4 +1,4 @@
-### A minute of genetics
+A minute of genetics
 As you know from the biology course, DNA and RNA are nucleotide sequences.
 Four nucleotides in DNA:
 adenine (A);
@@ -36,10 +36,14 @@ T → A;
 A → U.
 Напишите программу, переводящую цепь ДНК в цепь РНК.###
 
+
+
 a = {'A': 'U', 'C': 'G', 'G': 'C', 'T': 'A'}
 for i in input():
     print(a[i], end = '')
-  
+
+
+
 Sample Input 1:
 ACTG
 Sample Output 1:
